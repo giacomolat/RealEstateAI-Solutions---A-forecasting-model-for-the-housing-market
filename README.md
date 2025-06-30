@@ -1,6 +1,6 @@
-# 🏠 RealEstateAI Solutions
+# RealEstateAI Solutions
 
-## 📌 Obiettivo del Progetto
+## Obiettivo del Progetto
 
 **RealEstateAI Solutions** si propone di ottimizzare la valutazione dei prezzi immobiliari attraverso l'uso di **tecniche avanzate di regolarizzazione** in modelli di regressione lineare.
 
@@ -14,7 +14,7 @@ Il dataset, liberamente disponibile, è accessibile al seguente link:
 * Dataset: [housing.csv](https://proai-datasets.s3.eu-west-3.amazonaws.com/housing.csv)  
 * Ispirato al dataset Kaggle: [Housing Prices Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
-### 🧾 Variabili presenti:
+### Variabili presenti:
 
 | Variabile         | Descrizione |
 |------------------|-------------|
@@ -43,7 +43,7 @@ Il dataset, liberamente disponibile, è accessibile al seguente link:
 
 ---
 
-## 🧪 Fasi del Progetto
+## Fasi del Progetto
 
 ### 1. **Preparazione del Dataset**
 - Caricamento dei dati
@@ -94,8 +94,13 @@ Master in AI Engineering - ProfessionAI
 ## 📂 Come eseguire il progetto
 
 1. Clona la repository:
-
 ```bash
 git clone https://github.com/tuo-username/realestate-ai-solutions.git
 cd realestate-ai-solutions
 ```
+2. Assicurati di avere Python 3 installato.
+3. python ealestate-ai-solutions.py
+
+## 📜 Licenza
+Questo progetto è rilasciato con licenza GNU GPL v3.
+Vedi il file LICENSE per i dettagli.
