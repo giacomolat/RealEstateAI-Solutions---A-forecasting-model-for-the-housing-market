@@ -4,7 +4,7 @@
 
 **RealEstateAI Solutions** si propone di ottimizzare la valutazione dei prezzi immobiliari attraverso l'uso di **tecniche avanzate di regolarizzazione** in modelli di regressione lineare.
 
-L’obiettivo principale è fornire **previsioni di prezzo più accurate e affidabili**, riducendo il rischio di overfitting e migliorando la capacità di generalizzazione del modello. In un mercato immobiliare sempre più competitivo, questo sistema rappresenta uno strumento strategico per agenti e investitori.
+L’obiettivo principale è fornire **previsioni di prezzo più accurate e affidabili**, riducendo il rischio di overfitting e migliorando la capacità di generalizzazione del modello. In un mercato immobiliare sempre più competitivo, questo sistema rappresenta uno strumento strategico per agenti e investitori
 
 ---
 
@@ -86,6 +86,7 @@ Grazie alla regolarizzazione, si è ottenuto un **modello più robusto e general
 
 **Giacomo Latini**  
 Master in AI Engineering - ProfessionAI
+
 ![image](https://github.com/user-attachments/assets/8df6a8a9-4d40-40d0-995b-35638b72a538)
 
 ---
