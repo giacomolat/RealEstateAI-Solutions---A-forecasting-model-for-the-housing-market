@@ -1,4 +1,6 @@
-# RealEstateAI Solutions
+![image](https://github.com/user-attachments/assets/1b701899-f179-4f08-a4cf-d50720bc827b)
+# Master Professionale in AI Engineering - ProfessionAI
+# RealEstateAI Solutions - Un Modello di Previsione per il Mercato Immobiliare
 
 ## Obiettivo del Progetto
 
@@ -85,7 +87,7 @@ Grazie alla regolarizzazione, si è ottenuto un **modello più robusto e general
 ## 👨‍💻 Autore
 
 **Giacomo Latini**  
-Master in AI Engineering - ProfessionAI
+Master Professionale in AI Engineering - ProfessionAI
 
 ![image](https://github.com/user-attachments/assets/8df6a8a9-4d40-40d0-995b-35638b72a538)
 
